@@ -53,10 +53,13 @@ Screen Details:
 The data are taken from the Shopify custom app (see https://shopify.dev/concepts/apps)
 ![](https://github.com/greenxolutions/guije-shopify/blob/master/images/ShopifyAppData.png?raw=true)
 
-## Salesforce Admin Tasks:
+## Salesforce Admin Tasks after intalling:
 **Add Salesforce Sites.**
 The communication from Shopify to Salesforce is through Shopify Webhooks. For this reason, the GUIJE package has Web Services. The Public Access Settings must include the following classes in the "Enabled Apex Class Access" option.
 - GUIJE_Shopify_Action_ParseJSON
 - GUIJE_Shopify_WS
+
+**Remote Site Settings.**
+Add a remote site with your Shopify URL.
 
 
