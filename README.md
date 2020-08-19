@@ -14,7 +14,7 @@ Create a force.com site in your Salesforce (see the documentation)
 Install the GUIJE Salesforce - Shopify application.
 
 # Installation
-GUIJE Salesforce - Shopify v1.1  link [click here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002im3JAAQ "GUIJE Salesforce - Shopify")
+GUIJE Salesforce - Shopify v1.1  link [click here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002imDBAAY "GUIJE Salesforce - Shopify")
 
 ## Configuration Steps
 
