@@ -60,6 +60,7 @@ The communication from Shopify to Salesforce is through Shopify Webhooks. For th
 - GUIJE_Shopify_WS
 
 **Remote Site Settings.**
+
 Add a remote site with your Shopify URL.
 
 
