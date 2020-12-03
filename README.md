@@ -13,6 +13,11 @@ Create a Private app that allows access to your data through the API.
 Create a force.com site in your Salesforce (see the documentation)
 Install the GUIJE Salesforce - Shopify application.
 
+[![homepage][1]][2]
+
+[1]:  caswota_video_cover.png
+[2]:  https://www.youtube.com/watch?v=qA_KkpOrGh0=emb_logo
+
 # Installation
 GUIJE Salesforce - Shopify v1.4  link [click here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002imDfAAI "GUIJE Salesforce - Shopify")
 
