@@ -15,7 +15,7 @@ Install the GUIJE Salesforce - Shopify application.
 
 [![homepage][1]][2]
 
-[1]:  caswota_video_cover.png
+[1]:  Guije-shopify-v2.png
 [2]:  https://www.youtube.com/watch?v=qA_KkpOrGh0=emb_logo
 
 # Installation
